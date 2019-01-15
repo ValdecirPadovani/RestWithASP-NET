@@ -1,0 +1,14 @@
+C:\Projeto\RestWithASP-NET\RestWithASP-NET\RestWithASP-NET\bin\Debug\netcoreapp2.1\RestWithASP-NET.deps.json
+C:\Projeto\RestWithASP-NET\RestWithASP-NET\RestWithASP-NET\bin\Debug\netcoreapp2.1\RestWithASP-NET.runtimeconfig.json
+C:\Projeto\RestWithASP-NET\RestWithASP-NET\RestWithASP-NET\bin\Debug\netcoreapp2.1\RestWithASP-NET.runtimeconfig.dev.json
+C:\Projeto\RestWithASP-NET\RestWithASP-NET\RestWithASP-NET\bin\Debug\netcoreapp2.1\RestWithASP-NET.dll
+C:\Projeto\RestWithASP-NET\RestWithASP-NET\RestWithASP-NET\bin\Debug\netcoreapp2.1\RestWithASP-NET.pdb
+C:\Projeto\RestWithASP-NET\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.1\RestWithASP-NET.csprojAssemblyReference.cache
+C:\Projeto\RestWithASP-NET\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.1\RestWithASP-NET.csproj.CoreCompileInputs.cache
+C:\Projeto\RestWithASP-NET\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.1\RestWithASP-NET.RazorAssemblyInfo.cache
+C:\Projeto\RestWithASP-NET\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.1\RestWithASP-NET.RazorAssemblyInfo.cs
+C:\Projeto\RestWithASP-NET\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.1\RestWithASP-NET.AssemblyInfoInputs.cache
+C:\Projeto\RestWithASP-NET\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.1\RestWithASP-NET.AssemblyInfo.cs
+C:\Projeto\RestWithASP-NET\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.1\RestWithASP-NET.RazorTargetAssemblyInfo.cache
+C:\Projeto\RestWithASP-NET\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.1\RestWithASP-NET.dll
+C:\Projeto\RestWithASP-NET\RestWithASP-NET\RestWithASP-NET\obj\Debug\netcoreapp2.1\RestWithASP-NET.pdb
